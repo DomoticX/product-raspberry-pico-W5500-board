@@ -1,5 +1,3 @@
-# PICO-W5500 DomoticX v2
-
 Ethernet LAN expansion board for the Raspberry Pi Pico using the powerful W5500 Ethernet controller.
 
 ![PICO-W5500 DomoticX v2](raspberry-pico-W5500-board-01.jpg)
@@ -135,6 +133,12 @@ Designed by DomoticX.
 ---
 
 ## MQTT Example
-![PICO-W5500 DomoticX v2](raspberry-pico-W5500-board-mqtt-example.png)
-See folder "python-example"
-```
+![PICO-W5500 DomoticX mqtt example](raspberry-pico-W5500-board-mqtt-example.png)
+See folder: "python-example".
+
+---
+
+## Schematic
+![PICO-W5500 DomoticX v2](raspberry-pico-W5500-board-schematic.png)
+
+---
